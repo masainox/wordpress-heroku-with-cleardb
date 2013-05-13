@@ -41,3 +41,9 @@ Commit wp-config.php
 Deploy to Heroku
 
     $ git push heroku production:master
+
+
+Switch language
+
+    $ heroku config:add WORDPRESS_LANG=ja # ja
+    $ heroku config:add WORDPRESS_LANG='' # en
