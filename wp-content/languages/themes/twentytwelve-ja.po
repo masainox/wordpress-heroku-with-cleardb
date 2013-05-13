@@ -1,0 +1,308 @@
+# Translation of Twenty Twelve in Japanese
+# This file is distributed under the same license as the Twenty Twelve package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2013-01-25 03:00:52+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/0.1\n"
+"Project-Id-Version: Twenty Twelve\n"
+
+#: 404.php:17
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr "おっと、失礼しました。"
+
+#: 404.php:21
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "お探しのコンテンツを見つけられませんでした。検索をお試しください。"
+
+#: archive.php:29
+msgid "Daily Archives: %s"
+msgstr "日別アーカイブ: %s"
+
+#: archive.php:31
+msgid "Monthly Archives: %s"
+msgstr "月別アーカイブ: %s"
+
+#: archive.php:31
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "Y年n月"
+
+#: archive.php:33
+msgid "Yearly Archives: %s"
+msgstr "年別アーカイブ: %s"
+
+#: archive.php:33
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y年"
+
+#: archive.php:35
+msgid "Archives"
+msgstr "アーカイブ"
+
+#: author.php:32
+msgid "Author Archives: %s"
+msgstr "作成者別アーカイブ: %s"
+
+#: author.php:53 content.php:53
+msgid "About %s"
+msgstr "%s について"
+
+#: category.php:21
+msgid "Category Archives: %s"
+msgstr "カテゴリー別アーカイブ: %s"
+
+#: comments.php:31
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "「%2$s」への%1$s件のフィードバック"
+
+#: comments.php:42
+msgid "Comment navigation"
+msgstr "コメントナビゲーション"
+
+#: comments.php:43
+msgid "&larr; Older Comments"
+msgstr "&larr; 過去のコメント"
+
+#: comments.php:44
+msgid "Newer Comments &rarr;"
+msgstr "新しいコメント &rarr;"
+
+#: comments.php:53
+msgid "Comments are closed."
+msgstr "コメントは停止中です。"
+
+#: content-aside.php:13 content-aside.php:20 content-image.php:17
+#: content-link.php:18 content-quote.php:17 content-status.php:15
+#: content.php:23
+msgid "Permalink to %s"
+msgstr "%s へのパーマリンク"
+
+#: content-aside.php:15 content-image.php:13 content-link.php:14
+#: content-quote.php:13 content-status.php:21 content.php:39
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "続きを読む <span class=\"meta-nav\">&rarr;</span>"
+
+#: content-aside.php:23 content-image.php:23 content-link.php:21
+#: content-quote.php:20 content-status.php:27 content.php:28
+msgid "Leave a reply"
+msgstr "コメントをどうぞ"
+
+#: content-aside.php:23 content-image.php:23 content-link.php:21
+#: content-quote.php:20 content-status.php:27 content.php:28
+msgid "1 Reply"
+msgstr "1件のフィードバック "
+
+#: content-aside.php:23 content-image.php:23 content-link.php:21
+#: content-quote.php:20 content-status.php:27 content.php:28
+msgid "% Replies"
+msgstr "%件の返信"
+
+#: content-aside.php:26 content-image.php:26 content-link.php:24
+#: content-page.php:21 content-quote.php:23 content-status.php:30
+#: content.php:46 functions.php:309 image.php:37
+msgid "Edit"
+msgstr "編集"
+
+#: content-link.php:12
+msgid "Link"
+msgstr "リンク"
+
+#: content-none.php:13 index.php:49 search.php:34
+msgid "Nothing Found"
+msgstr "見つかりません"
+
+#: content-none.php:17 index.php:53
+msgid "Apologies, but no results were found. Perhaps searching will help find a related post."
+msgstr "一致する結果がありませんでした。検索してみると、関連投稿が見つかるかもしれません。"
+
+#: content-page.php:18 content.php:40 image.php:92
+msgid "Pages:"
+msgstr "ページ:"
+
+#: content.php:14
+msgid "Featured post"
+msgstr "おすすめ投稿"
+
+#: content.php:57
+msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "%s の投稿をすべて表示 <span class=\"meta-nav\">&rarr;</span>"
+
+#: footer.php:17
+msgid "http://wordpress.org/"
+msgstr "http://ja.wordpress.org/"
+
+#: footer.php:17
+msgid "Semantic Personal Publishing Platform"
+msgstr "セマンティックなパブリッシングツール"
+
+#: footer.php:17
+msgid "Proudly powered by %s"
+msgstr "Proudly powered by %s"
+
+#: functions.php:64
+msgid "Primary Menu"
+msgstr "メインメニュー"
+
+#: functions.php:120
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr "off"
+
+#: functions.php:125
+msgctxt "Open Sans font: add new subset (greek, cyrillic, vietnamese)"
+msgid "no-subset"
+msgstr "no-subset"
+
+#: functions.php:181
+msgid "Page %s"
+msgstr "ページ %s"
+
+#: functions.php:206
+msgid "Main Sidebar"
+msgstr "メインサイドバー"
+
+#: functions.php:208
+msgid "Appears on posts and pages except the optional Front Page template, which has its own widgets"
+msgstr "独自ウィジェットを持つオプションフロントページテンプレートの投稿と固定ページに表示されます。"
+
+#: functions.php:216
+msgid "First Front Page Widget Area"
+msgstr "フロントページウィジェットエリア 1"
+
+#: functions.php:218 functions.php:228
+msgid "Appears when using the optional Front Page template with a page set as Static Front Page"
+msgstr "オプションフロントページテンプレートを固定フロントとして使う際に表示されます。"
+
+#: functions.php:226
+msgid "Second Front Page Widget Area"
+msgstr "フロントページウィジェットエリア 2"
+
+#: functions.php:250 single.php:20
+msgid "Post navigation"
+msgstr "投稿ナビゲーション"
+
+#: functions.php:251
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> 過去の投稿"
+
+#: functions.php:252
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "新しい投稿 <span class=\"meta-nav\">&rarr;</span>"
+
+#: functions.php:277
+msgid "Pingback:"
+msgstr "ピンバック:"
+
+#: functions.php:277
+msgid "(Edit)"
+msgstr "(編集)"
+
+#: functions.php:292
+msgid "Post author"
+msgstr "投稿作成者"
+
+#: functions.php:298
+msgid "%1$s at %2$s"
+msgstr "%1$s %2$s"
+
+#: functions.php:304
+msgid "Your comment is awaiting moderation."
+msgstr "あなたのコメントは承認待ちです。"
+
+#: functions.php:313
+msgid "Reply"
+msgstr "返信"
+
+#: functions.php:332 functions.php:335
+msgid ", "
+msgstr ", "
+
+#: functions.php:346
+msgid "View all posts by %s"
+msgstr "%s の投稿をすべて表示"
+
+#: functions.php:352
+msgid "This entry was posted in %1$s and tagged %2$s on %3$s<span class=\"by-author\"> by %4$s</span>."
+msgstr "カテゴリー: %1$s | タグ: %2$s | 投稿日: %3$s | <span class=\"by-author\">投稿者: %4$s</span>"
+
+#: functions.php:354
+msgid "This entry was posted in %1$s on %3$s<span class=\"by-author\"> by %4$s</span>."
+msgstr "カテゴリー: %1$s | 投稿日: %3$s | <span class=\"by-author\">投稿者: %4$s</span>"
+
+#: functions.php:356
+msgid "This entry was posted on %3$s<span class=\"by-author\"> by %4$s</span>."
+msgstr "この投稿は%3$s<span class=\"by-author\">に%4$sが公開しました</span>。"
+
+#: header.php:43
+msgid "Menu"
+msgstr "メニュー"
+
+#: header.php:44
+msgid "Skip to content"
+msgstr "コンテンツへ移動"
+
+#: image.php:26
+msgid "<span class=\"meta-prep meta-prep-entry-date\">Published </span> <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%8$s</a>."
+msgstr "<span class=\"meta-prep meta-prep-entry-date\">公開日時:</span> <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></span><a href=\"%3$s\" title=\"フルサイズ画像へのリンク\">%4$s &times; %5$s</a> (<a href=\"%6$s\" title=\"%7$s へ戻る\" rel=\"gallery\">%8$s</a>)"
+
+#: image.php:41
+msgid "&larr; Previous"
+msgstr "&larr; 前へ"
+
+#: image.php:42
+msgid "Next &rarr;"
+msgstr "次へ &rarr;"
+
+#: index.php:38
+msgid "No posts to display"
+msgstr "表示する投稿がありません"
+
+#: index.php:42
+msgid "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+msgstr "最初の投稿をする準備ができましたか ? <a href=\"%s\">ここからスタート</a>してください。"
+
+#: search.php:18
+msgid "Search Results for: %s"
+msgstr "検索結果: %s"
+
+#: search.php:38
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr "ご指定の検索条件に合う投稿がありませんでした。他のキーワードでもう一度検索してみてください。"
+
+#: single.php:21
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr "&larr;"
+
+#: single.php:22
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: tag.php:21
+msgid "Tag Archives: %s"
+msgstr "タグ別アーカイブ: %s"
+
+msgid "Twenty Twelve"
+msgstr "Twenty Twelve"
+
+msgid "http://wordpress.org/extend/themes/twentytwelve"
+msgstr "http://wordpress.org/extend/themes/twentytwelve"
+
+msgid "The 2012 theme for WordPress is a fully responsive theme that looks great on any device. Features include a front page template with its own widgets, an optional display font, styling for post formats on both index and single views, and an optional no-sidebar page template. Make it yours with a custom menu, header image, and background."
+msgstr "2012年の WordPress デフォルトテーマはレスポンシブデザインに対応しており、さまざまなデバイス上で美しく表示できます。独自ウィジェットを持つフロントページテンプレート、オプションの表示フォント、インデックス・シングルページ両方での投稿フォーマット、サイドバーなしテンプレートオプションなどの機能を含んでいます。カスタムメニュー、ヘッダー画像、背景を使ってカスタマイズしてください。"
+
+msgid "the WordPress team"
+msgstr "WordPress チーム"
+
+msgid "Front Page Template"
+msgstr "フロントページテンプレート"
+
+msgid "Full-width Page Template, No Sidebar"
+msgstr "全幅ページテンプレート、サイドバーなし"
