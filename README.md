@@ -7,7 +7,7 @@ Installation
 
 Create your app
 
-    $ heroku create  -s cedar -b git://github.com/iphoting/heroku-buildpack-php-tyler.git
+    $ heroku create YOUR_APP_NAME  -s cedar -b git://github.com/iphoting/heroku-buildpack-php-tyler.git
 
 Add a database to your app
 
@@ -18,7 +18,7 @@ Create a new branch for any configuration/setup changes needed
 
     $ git checkout -b production
 
-Copy the `wp-config.php`
+Copy the "wp-config.php"
 
     $ cp wp-config-sample.php wp-config.php
 
